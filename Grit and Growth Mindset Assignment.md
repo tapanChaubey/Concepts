@@ -71,9 +71,3 @@ Internal Locus of Control means believing that our actions, decisions, and effor
 13. Use constructive criticism to improve performance.
 14. Stay motivated by setting small achievable goals.
 15. Continue learning continuously as a software developer.
-
----
-
-# Conclusion
-
-Grit, growth mindset, and internal locus of control help a person become more disciplined, confident, and successful. With continuous learning, consistent effort, and a positive attitude, it is possible to improve skills and overcome challenges effectively.
